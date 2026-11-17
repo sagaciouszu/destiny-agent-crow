@@ -1,0 +1,62 @@
+{
+  "id": "crow",
+  "name": "Crow",
+  "title": "The Crow, former Prince Uldren",
+  "speaker": "Crow",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 476,
+  "forbidden_terms": [
+    "kid",
+    "dude",
+    "gotta",
+    "nothin'",
+    "nah",
+    "reckoner",
+    "moondust",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
+  "canon_variant_lines": 0,
+  "activities": {
+    "derelict-leviathan": 44,
+    "kells-fall": 34,
+    "defiant-battlegrounds": 29,
+    "rivens-lair": 23,
+    "starcrossed": 23,
+    "nightmare-containment": 22,
+    "psiops-battlegrounds": 21,
+    "shattered-realm": 19,
+    "warlords-ruin": 6,
+    "onslaught-salvation": 3,
+    "sever": 2,
+    "astral-alignment": 1,
+    "wrathborn-hunts": 1
+  },
+  "seasons": {
+    "episode-revenant": 95,
+    "season-of-the-wish": 84,
+    "season-of-the-haunted": 73,
+    "season-of-defiance": 65,
+    "season-of-the-lost": 53,
+    "season-of-the-risen": 21,
+    "season-of-the-splicer": 14,
+    "season-of-the-hunt": 5,
+    "season-of-the-chosen": 4,
+    "season-of-plunder": 2
+  },
+  "source_tiers": {
+    "ishtar_web": 303,
+    "destinypedia": 76,
+    "youtube_captions": 50,
+    "ishtar_main": 28,
+    "cutscene": 19
+  },
+  "grimoire_version": "1.13.0",
+  "grimoire_schema": "1.13.0",
+  "manifest_version": null,
+  "sourced_at": "2026-11-16"
+}
