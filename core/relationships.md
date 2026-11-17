@@ -1,7 +1,7 @@
 # Crow - Relationships
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.17K tokens
 
 ## Glint (Ghost, partner)
 

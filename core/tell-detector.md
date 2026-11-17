@@ -1,7 +1,7 @@
 # Crow - Tell Detector
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.07K tokens
 
 Crow is hiding something when:
 

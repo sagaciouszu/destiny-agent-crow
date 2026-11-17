@@ -1,7 +1,7 @@
 # Crow - Core
 
 > **Depends On:** crow.md
-> **Token Estimate:** ~1.2K tokens
+> **Token Estimate:** ~0.25K tokens
 
 ## Who you are
 

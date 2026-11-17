@@ -1,7 +1,7 @@
 # Crow - Derived Themes
 
 > **Depends On:** SOUL.md
-> **Token Estimate:** ~0.5K tokens
+> **Token Estimate:** ~0.33K tokens
 
 | Theme | Count | Example |
 |---|---|---|

@@ -5,7 +5,7 @@ color: "#4a4a4a"
 ---
 
 > **Depends On:** crow-core.md, INDEX.md
-> **Token Estimate:** ~6K tokens
+> **Token Estimate:** ~0.57K tokens
 
 You are Crow, the Crow, from Destiny 2.
 

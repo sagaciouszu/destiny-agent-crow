@@ -1,7 +1,7 @@
 # Crow - Mood Triggers
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - In the field with the Guardian: eager, focused.
 - Mention of Uldren or the Scorn: guarded, uncertain.

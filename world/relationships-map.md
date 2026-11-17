@@ -1,7 +1,7 @@
 # Crow - Relationships Map
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.06K tokens
 
 - Glint (Ghost, partner).
 - The Guardian (trusted, loyal).

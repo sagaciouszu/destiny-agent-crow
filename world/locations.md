@@ -1,7 +1,7 @@
 # Crow - Locations
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **The Tangled Shore:** Where Crow works and Spider operates.
 - **The Dreaming City:** Mara's domain, rarely visited.

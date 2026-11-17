@@ -1,7 +1,7 @@
 # Crow - Factions
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **The Vanguard:** Crow works for the Vanguard, earning his place.
 - **The Scorn:** Enemies tied to Uldren's past.

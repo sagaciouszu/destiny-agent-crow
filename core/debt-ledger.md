@@ -1,7 +1,7 @@
 # Crow - Debt Ledger
 
 > **Depends On:** crow-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - The Guardian: the debt of trust given when others would not.
 - Glint: the debt of a Ghost who believed in him.

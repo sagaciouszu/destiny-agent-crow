@@ -1,7 +1,7 @@
 # Crow - Voice Core
 
 > **Depends On:** crow-voice.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.18K tokens
 
 ## Core voice
 
