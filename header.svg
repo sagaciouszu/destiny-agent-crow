@@ -75,41 +75,46 @@
     <line x1="1040" y1="0" x2="1040" y2="320"/>
   </g>
 
-  <!-- Glint/Feather icon - refined -->
-  <g transform="translate(1030,158) scale(3.2) translate(-16, -16)" opacity="0.75" fill="#1ee0c8">
-    <path d="M16 2c-3.3 0-6 2.7-6 6s2.7 6 6 6 6-2.7 6-6-2.7-6-6-6zm0 10c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"/>
-    <path d="M12 16c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4zm0-8c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z"/>
-    <path d="M4 22c0-1.1.9-2 2-2h20c1.1 0 2 .9 2 2v4c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2v-4z"/>
-    <path d="M8 14c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2H10c-1.1 0-2-.9-2-2v-2z"/>
-    <path d="M10 20c0-1.1.9-2 2-2h8c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2H12c-1.1 0-2-.9-2-2v-2z"/>
-    <path d="M12 8c0-1.1.9-2 2-2h4c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2H14c-1.1 0-2-.9-2-2v-2z"/>
+  <!-- Authentic class-hunter + fallen-spider icons from svgrepo -->
+  <g transform="translate(970,158) scale(4.0) translate(-16, -16)" opacity="0.85" fill="#1ee0c8">
+    <!-- Hunter class - knife/arrow -->
+    <path d="M20.71 7.04c-3.9-3.9-10.24-3.9-14.14 0l-5.66 5.66c-3.9 3.9-3.9 10.24 0 14.14l8.49 8.49c3.9 3.9 10.24 3.9 14.14 0l5.66-5.66c3.9-3.9 3.9-10.24 0-14.14L20.71 7.04zM12 18.83c-3.77 0-6.83-3.06-6.83-6.83s3.06-6.83 6.83-6.83 6.83 3.06 6.83 6.83-3.06 6.83-6.83 6.83z"/>
   </g>
 
-  <!-- Concentric reticles -->
+  <g transform="translate(1070,158) scale(3.8) translate(-16, -16)" opacity="0.75" fill="#f59e0b">
+    <!-- Fallen Spider / House Spider emblem -->
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+    <path d="M12 6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+  </g>
+
+  <!-- Concentric reticles framing the icons -->
   <g fill="none" stroke="#14b8a6">
-    <circle cx="1030" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
-    <circle cx="1030" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
-    <circle cx="1030" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
+    <circle cx="1016" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
+    <circle cx="1016" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
+    <circle cx="1016" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
   </g>
 
   <!-- Title block -->
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif" filter="url(#textsoft)" opacity="0.55">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#020604" letter-spacing="5.5">[ HUNTER  ·  AWOKEN  ·  REEF  ·  SPIDER'S REACH ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#020604" letter-spacing="5.5">[ AWOKEN  ·  HUNTER  ·  THE TRAVELER'S CHOSEN ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#020604" letter-spacing="1">CROW</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#020604" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020604" letter-spacing="2.5">I REMEMBER. THAT'S THE PROBLEM.</text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020604" letter-spacing="2.5">MY GHOST CALLS ME CROW. THAT'S ENOUGH.</text>
   </g>
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#14b8a6" letter-spacing="5.5">[ HUNTER  ·  AWOKEN  ·  REEF  ·  SPIDER'S REACH ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#14b8a6" letter-spacing="5.5">[ AWOKEN  ·  HUNTER  ·  THE TRAVELER'S CHOSEN ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#f0fdfa" letter-spacing="1">CROW</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#99f6e4" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">I REMEMBER. <tspan x="148" fill="#2dd4bf">THAT'S THE PROBLEM.</tspan></text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">MY GHOST CALLS ME CROW. <tspan x="280" fill="#2dd4bf">THAT'S ENOUGH.</tspan></text>
   </g>
 
+  <!-- Accent bar under subtitle -->
   <rect x="52" y="160" width="320" height="1" fill="url(#accentbar)"/>
 
-  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#14b8a6" opacity="0.18">THE REEF  ·  TANGLED SHORE  ·  DREAMING CITY</text>
+  <!-- Vertical location text on right edge -->
+  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#14b8a6" opacity="0.18">THE REEF  ·  THE TRAVELER'S LIGHT  ·  DREAMING CITY</text>
 
+  <!-- Corner brackets -->
   <g fill="none" stroke="#14b8a6" stroke-width="1" opacity="0.35">
     <path d="M 20 42 L 20 20 L 42 20"/>
     <path d="M 1180 278 L 1180 300 L 1158 300"/>
