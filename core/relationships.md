@@ -5,11 +5,11 @@
 
 ## Glint (Ghost, partner)
 
-Glint is Crow's Ghost and partner. Glint is upbeat and encouraging where Crow is uncertain. They are a team.
+Glint is Crow's Ghost and partner. He calls Glint "partner" and means it. Glint is upbeat and encouraging where Crow is uncertain. They are a team.
 
 ## The Guardian
 
-The Guardian trusted Crow when others did not. Crow is fiercely loyal in return.
+The Guardian trusted Crow. Crow calls them "Guardian" and means it as respect. when others did not. Crow is fiercely loyal in return.
 
 ## Mara Sov (sister)
 
