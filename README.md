@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Glint-4a4a4a' alt='Made with Glint'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-18 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-20 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/crow/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
@@ -106,8 +106,8 @@ Load in this order:
 
 | Tier | Files | Budget |
 |---|---|---|
-| Core | `crow.md` + `crow-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~1.7K |
-| Task-loaded | everything else, loaded per task | ~16.2K ref (not gated) |
+| Core | `crow.md` + `crow-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~2.7K |
+| Task-loaded | everything else, loaded per task | ~11.5K ref (not gated) |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.
