@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Glint-4a4a4a' alt='Made with Glint'/>
 </p>
 
-**Version:** 0.1.1 | **Last push:** 2026-11-22 | **Status:** Active
+**Version:** 0.2.0 | **Last push:** 2026-11-23 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/crow/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
